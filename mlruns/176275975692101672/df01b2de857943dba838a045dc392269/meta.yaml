@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/sandbox/ML-service/mlruns/176275975692101672/df01b2de857943dba838a045dc392269/artifacts
+end_time: 1764261942650
+entry_point_name: ''
+experiment_id: '176275975692101672'
+lifecycle_stage: active
+run_id: df01b2de857943dba838a045dc392269
+run_name: defiant-quail-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764261937689
+status: 3
+tags: []
+user_id: nader

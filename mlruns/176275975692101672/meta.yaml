@@ -1,0 +1,6 @@
+artifact_location: file:///D:/sandbox/ML-service/mlruns/176275975692101672
+creation_time: 1764261937582
+experiment_id: '176275975692101672'
+last_update_time: 1764261937582
+lifecycle_stage: active
+name: breast_cancer_classification
